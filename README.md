@@ -6,3 +6,6 @@ The challenge for this week was to edit the starter code in a way that made the 
 * changed the ``<div>`` tags into semantic elements such as ``<header>``, ``<nav>``, ``<section>``, ``<article>``, and ``<footer>``.
 * added comments in the CSS and sorted through the classes and selectors to follow a logical flow, such as ``/* Header Start*/`` and ``/* Header End */`` to make it more navigable.
 * changed the ``title`` to reflect the name of the webpage, in this case "Horiseon"
+#### TODO:
+- [ ] Add link to deployed application to README
+- [ ] Add screenshot of application to README
